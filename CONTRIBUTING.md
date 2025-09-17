@@ -39,5 +39,3 @@
 Open a pull request or issue — keep it focused and helpful!
 
 ---
-
-Let me know if you want this saved as a file.
