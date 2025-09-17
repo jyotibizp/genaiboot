@@ -117,4 +117,4 @@ By the end of this module, you will:
 
 ---
 
-Ready to start? Head to [Lesson 1: Getting Started](./lesson-01-setup.md) →
+Ready to start? Head to [Lesson 1: Getting Started](./lessons//lesson-01-setup.md) →
