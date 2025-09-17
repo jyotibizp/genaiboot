@@ -19,7 +19,7 @@
 
 #### Getting Your API Key
 ```bash
-# Navigate to: platform.openai.com/api-keys
+# Navigate to: https://platform.openai.com/settings/organization/api-keys
 # Click "Create new secret key"
 # Copy and save securely (you won't see it again!)
 ```
@@ -56,6 +56,10 @@ set OPENAI_API_KEY=sk-...
 
 ### Required Packages
 ```bash
+# Install all the requirements need for the bootcamp
+pip install -r requirements.txt # from root of the repo
+
+# OR selectively install only needed for module
 # Core package
 pip install openai
 
