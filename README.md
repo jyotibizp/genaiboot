@@ -9,8 +9,8 @@ This program will take you from fundamentals of LLMs to building full-scale **RA
 
 We’ve structured the course to be **progressive and hands-on**:
 
-* [Detailed Syllabus](./syllabus.MD)
-* [Syllabus (Table View)](./syllabus-table.MD)
+* [Detailed Syllabus](./syllabus.md)
+* [Syllabus (Table View)](./syllabus-table.md)
 
 ---
 
