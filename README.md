@@ -39,7 +39,7 @@ genaiboot/
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/<your-org>/genaiboot.git
+   git clone https://github.com/jyotibizp/genaiboot.git
    cd genaiboot
    ```
 
